@@ -1,8 +1,8 @@
 ![logo](_media/logo256.png)
 
-# ABC Workshop <small>0.1</small>
+# Migrations Workshop <small>0.1</small>
 
-> A magical workshop.
+> Migrations of data and apps to AWS.
 
 - Simple labs that fits all levels
 - Written with love

@@ -1,6 +1,6 @@
-# ABC Workshop
+# Migrations Workshop
 
-Here enter a description and a architectural diagram of final result
+You'll learn how to migrate data and applications to AWS
 
 ![image](_media/architecture.png)
 
